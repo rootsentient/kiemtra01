@@ -1,2 +1,2 @@
 # kiemtra01
-Bài kiểm tra số 01 - C#
+Đỗ Mạnh Đức -24810310203
