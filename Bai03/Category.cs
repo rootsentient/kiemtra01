@@ -1,9 +1,8 @@
-namespace Bai03
+﻿namespace TechMartProductManager
 {
     public class Category
     {
         public int Id { get; set; }
-
         public string Name { get; set; } = "";
     }
 }
